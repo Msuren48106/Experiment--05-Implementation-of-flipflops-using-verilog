@@ -54,9 +54,9 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 ### JK Flip-Flop
 JK flip-flop is the modified version of SR flip-flop. It operates with only positive clock transitions or negative clock transitions. The circuit diagram of JK flip-flop is shown in the following figure.
-![image](https://user-images.githubusercontent.com/36288975/167910378-d2d984a7-2815-4d17-8c41-ee4bdf59ec24.png) 
 
- 
+ ![Screenshot 2023-11-26 210428](https://github.com/vamsikrishna272005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147477015/3ce995ec-6c0d-41d6-9cc6-2fb03802d082)
+
 This circuit has two inputs J & K and two outputs Qtt & Qtt’. The operation of JK flip-flop is similar to SR flip-flop. Here, we considered the inputs of SR flip-flop as S = J Qtt’ and R = KQtt in order to utilize the modified SR flip-flop for 4 combinations of inputs.
 The following table shows the state table of JK flip-flop.
 
@@ -136,5 +136,10 @@ RegisterNumber:
 
 
 ![Screenshot 2023-11-26 170721](https://github.com/vamsikrishna272005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147477015/b692e43d-97f1-48ff-b98b-5b5a821d8696)
+### Truth table
+![download](https://github.com/vamsikrishna272005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147477015/6247b71c-3f59-4924-998f-91497f2cd4c6)
+![download](https://github.com/vamsikrishna272005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147477015/b52b472e-fdbd-4b6a-90a2-85652635f73e)
+![download](https://github.com/vamsikrishna272005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147477015/cb41b168-057f-4f9e-a446-803295ff71a1)
+
 
 ### RESULTS 
