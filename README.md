@@ -136,9 +136,12 @@ RegisterNumber:
 
 
 ![Screenshot 2023-11-26 170721](https://github.com/vamsikrishna272005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147477015/b692e43d-97f1-48ff-b98b-5b5a821d8696)
+
 ### Truth table
 ![download](https://github.com/vamsikrishna272005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147477015/6247b71c-3f59-4924-998f-91497f2cd4c6)
+
 ![download](https://github.com/vamsikrishna272005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147477015/b52b472e-fdbd-4b6a-90a2-85652635f73e)
+
 ![download](https://github.com/vamsikrishna272005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147477015/cb41b168-057f-4f9e-a446-803295ff71a1)
 
 
