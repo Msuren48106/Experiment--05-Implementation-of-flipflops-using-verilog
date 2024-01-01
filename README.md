@@ -145,4 +145,5 @@ RegisterNumber:
 ![download](https://github.com/vamsikrishna272005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147477015/cb41b168-057f-4f9e-a446-803295ff71a1)
 
 
-### RESULTS 
+### RESULTS
+The program has been completed successfully
